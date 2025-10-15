@@ -1,0 +1,4 @@
+
+39c5753611922ea7
+azure_endpoint="https://mavericks-secureapi.azurewebsites.net/api/azureai",
+    api_version="2024-02-01"
